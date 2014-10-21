@@ -16,7 +16,7 @@
 
 -(void)update:(CCTime)delta
 {
-    // this will be run every frame.
+    /// this will be run every frame.
     // delta is the time that has elapsed since the last time it was run. This is usually 1/60, but can be bigger if the game slows down
 }
 
